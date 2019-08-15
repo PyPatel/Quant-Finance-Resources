@@ -27,6 +27,8 @@ Courses, Articles and many more which can help beginners or professionals.
   *
   
 ### Quant Finance
+  * **Options, Futures, and other Derivatives** by *John C Hull*
+    - You will first need to have sound understanding of Financial Markets (Not expertise, but understanding is necessary.)
   * **Advances in Financial Machine Learning** by *Marcos Lopez de Prado*
   * 
 

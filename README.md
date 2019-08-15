@@ -4,7 +4,7 @@ Courses, Articles and many more which can help beginners or professionals.
 
 ## Courses and Lectures
 ### Mathematics
- * 
+ * **Numerical Linear Algebra for Coders** by [fast.ai](https://www.fast.ai) 
  * 
 ### AI
 ### Quant Finance

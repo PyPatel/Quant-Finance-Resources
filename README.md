@@ -4,8 +4,7 @@ Courses, Articles and many more which can help beginners or professionals.
 
 ## Courses and Lectures
 ### Mathematics
- * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*
- * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book)
+ * 
  * 
 ### AI
 ### Quant Finance
@@ -19,7 +18,8 @@ Courses, Articles and many more which can help beginners or professionals.
 
 ## Books
 ### Mathematics
-  * 
+  * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*
+  * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book)
   * 
   
 ### AI

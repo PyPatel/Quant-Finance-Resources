@@ -13,7 +13,7 @@ Finance is mostly details, and just having the ability to systematize and catego
 
 ## Coding 
 ### Python
- * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch*
+ * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Reco)
 
 ### C++
 

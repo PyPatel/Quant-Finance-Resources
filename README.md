@@ -8,8 +8,11 @@ Finance is mostly details, and just having the ability to systematize and catego
  * **Numerical Linear Algebra for Coders** by [fast.ai](https://www.fast.ai) 
  * 
 ### AI
+ *
+ *
 ### Quant Finance
-
+ *
+ *
 
 ## Coding 
 ### Python

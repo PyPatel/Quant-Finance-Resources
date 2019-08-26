@@ -20,7 +20,7 @@ Finance is mostly details, and just having the ability to systematize and catego
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*
-  * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book)
+  * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Reco)
   * 
   
 ### AI

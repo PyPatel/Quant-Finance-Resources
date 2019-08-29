@@ -16,14 +16,14 @@ Finance is mostly details, and just having the ability to systematize and catego
 
 ## Coding 
 ### Python
- * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Reco)
+ * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Recommended)
 
 ### C++
 
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*
-  * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Reco)
+  * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Recommended)
   * 
   
 ### AI

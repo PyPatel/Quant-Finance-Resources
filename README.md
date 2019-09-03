@@ -6,6 +6,7 @@ Finance is mostly details, and just having the ability to systematize and catego
 ## Courses and Lectures
 ### Mathematics
  * **Numerical Linear Algebra for Coders** by [fast.ai](https://www.fast.ai) 
+ * **Introduction to Probability** by [MIT OCW](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)
  * 
 ### AI
  *

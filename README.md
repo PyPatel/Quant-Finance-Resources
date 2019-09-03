@@ -41,3 +41,5 @@ Finance is mostly details, and just having the ability to systematize and catego
 * **The Gambler Who Cracked the Horse-Racing Code** in Bloomberg Businessweek [here](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 ## Papers
  * Beating the bookies with their own numbers - and how the online sports betting market is rigged [Paper](https://arxiv.org/abs/1710.02824)
+
+## Blogs

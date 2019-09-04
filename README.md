@@ -20,7 +20,7 @@ Courses, Articles and many more which can help beginners or professionals.
  * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Recommended)
 
 ### C++
-
+ * (Book) **Design Patterns** Elements of Reusable Object-Oriented Software 
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*

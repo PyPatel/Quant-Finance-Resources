@@ -18,6 +18,7 @@ Courses, Articles and many more which can help beginners or professionals.
 ## Coding 
 ### Python
  * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Recommended)
+ * 
 
 ### C++
  * (Book) **Effective Modern C++** by *Scott Meyers* 

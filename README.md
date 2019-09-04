@@ -28,7 +28,7 @@ Courses, Articles and many more which can help beginners or professionals.
   * 
   
 ### AI
-  *
+  * **Deep Learning** by Ian Goodfellow et al.
   *
   
 ### Quant Finance

@@ -43,3 +43,4 @@ Courses, Articles and many more which can help beginners or professionals.
  * Beating the bookies with their own numbers - and how the online sports betting market is rigged [Paper](https://arxiv.org/abs/1710.02824)
 
 ## Blogs
+ * [http://koaning.io/](http://koaning.io/) by Vincent D. Warmerdam (Use of Simple Mathematics into ML)

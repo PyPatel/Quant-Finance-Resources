@@ -31,7 +31,7 @@ Courses, Articles and many more which can help beginners or professionals.
   
 ### AI
   * **Deep Learning** by Ian Goodfellow et al.
-  *
+  * **Reinforcement Learning An Introduction** by *Sutton and Barto* 
   
 ### Quant Finance
   * **Options, Futures, and other Derivatives** by *John C Hull*

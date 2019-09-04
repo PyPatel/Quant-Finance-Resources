@@ -1,5 +1,5 @@
 # Quant-Finance-Resources
-**Courses, Articles and many more which can help beginners or professionals. **
+**Courses, Articles and many more which can help beginners or professionals.**
 
 *Finance is mostly details, and just having the ability to systematize and categorize and focus on details can be a huge advantage.* by Micheal Burry 
 

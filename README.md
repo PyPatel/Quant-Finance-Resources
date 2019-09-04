@@ -22,6 +22,7 @@ Courses, Articles and many more which can help beginners or professionals.
 
 ### C++
  * (Book) **Effective Modern C++** by *Scott Meyers* 
+ * 
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*

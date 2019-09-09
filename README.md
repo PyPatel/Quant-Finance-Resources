@@ -25,7 +25,7 @@
  * 
 ## Books
 ### Mathematics
-  * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*
+  * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*  (Citadel Recommended)
   * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Recommended)
   * 
   

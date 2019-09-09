@@ -34,7 +34,7 @@
   * **Reinforcement Learning An Introduction** by *Sutton and Barto* 
   
 ### Quant Finance
-  * **Options, Futures, and other Derivatives** by *John C Hull*
+  * **Options, Futures, and other Derivatives** by *John C Hull*  (Citadel Recommended)
     - You will first need to have sound understanding of Financial Markets (Not expertise, but understanding is necessary.)
   * **Advances in Financial Machine Learning** by *Marcos Lopez de Prado*
   * **Financial Calculus: An Introduction to Derivative Pricing** by Martin Baxter (He ran Quant for Lehman and Nomura)

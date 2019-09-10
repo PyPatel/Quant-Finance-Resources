@@ -42,6 +42,7 @@
 
 ## Articles
 * **The Gambler Who Cracked the Horse-Racing Code** in Bloomberg Businessweek [here](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
+
 ## Papers
  * **Beating the bookies with their own numbers - and how the online sports betting market is rigged** [Paper](https://arxiv.org/abs/1710.02824)
  * **Machine Learning for Trading** by *Gordon Ritter* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609) (Talks about implementation of RL into Finance)

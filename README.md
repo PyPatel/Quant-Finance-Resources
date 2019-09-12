@@ -48,6 +48,7 @@
  * **Machine Learning for Trading** by *Gordon Ritter* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609) (Talks about implementation of RL into Finance)
  * **Deep Hedging** by *Hans Buehler et al.* (JP Morgan Quants from London Office) [Paper](https://arxiv.org/pdf/1802.03042.pdf)
    - This paper has been already implemented by JPM [Article](https://cdoreview.com/asset-management-and-trading/jp-morgan-unleashes-deep-hedging-on-single-stocks-other-portfolios/)
+   - Hedging Vanilla OTC Products using RL
 
 ## Blogs
  * [http://koaning.io/](http://koaning.io/) by Vincent D. Warmerdam (Use of Simple Mathematics into ML)

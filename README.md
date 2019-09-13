@@ -26,6 +26,7 @@
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*  (Citadel Recommended)
+  * **How to Lie with Statistics** by *Darrell Huff* (Interesting takes on how you can manipulate human perception with Graph)
   * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Recommended)
   * 
   

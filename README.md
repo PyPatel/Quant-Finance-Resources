@@ -12,7 +12,7 @@
  *
  *
 ### Quant Finance
- * Quantopian Lectures for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
+ * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
  *
 
 ## Coding 

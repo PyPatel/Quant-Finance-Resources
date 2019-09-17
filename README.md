@@ -9,7 +9,7 @@
  * **Introduction to Probability** by [MIT OCW](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)
  * 
 ### AI
- *
+ * **Machine Learning** by *Tom Mitchell* [CMU Course Page](http://www.cs.cmu.edu/~tom/10701_sp11/)
  *
 ### Quant Finance
  * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)

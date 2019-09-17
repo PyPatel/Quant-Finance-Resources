@@ -3,7 +3,7 @@
 
 *Finance is mostly details, and just having the ability to systematize and categorize and focus on details can be a huge advantage.* by Micheal Burry 
 
-This resources are specifically meant for engineers or mathematicians. Most of the courses are Math or Coding heavy. Take it at your own risk.
+This resources are specifically meant for **engineers or mathematicians**. Most of the courses are Math or Coding heavy. Take it at your own risk.
 ## Courses and Lectures
 > **Note:** Courses listed below will NOT show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it,    Medical doctor or lawyer can, if needed.) I don't want to (or want you to) spend time in these courses because these courses gives you flavour of subject and not deep understanding. Being an engineer, I want to (wish the same for you) use my already learnt mathematics skills to advance further in topic and dive deep, to do some meaningful work or research.
 

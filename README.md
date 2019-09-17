@@ -52,4 +52,5 @@
    - Hedging Vanilla OTC Products using RL
 
 ## Blogs
- * [http://koaning.io/](http://koaning.io/) by Vincent D. Warmerdam (Use of Simple Mathematics into ML)
+ * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
+ * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)

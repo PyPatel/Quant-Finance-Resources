@@ -10,7 +10,7 @@ This resources are specifically meant for engineers or mathematicians. Most of t
  * **Introduction to Probability** by [MIT OCW](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)
  * 
 ### AI
-**Note:** Courses listed below will not show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it, Medical doctor or lawyer can, if needed.) I don't want to (or want you to) spend time in these courses because these courses gives you flavour of subject and not deep undderstanding. Being an engineer, I want to (wish the same for you) use my already learnt mathematics skills to advance further in topic and dive deep, to do some meaningful work or research.
+**Note:** Courses listed below will not show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it, Medical doctor or lawyer can, if needed.) I don't want to (or want you to) spend time in these courses because these courses gives you flavour of subject and not deep understanding. Being an engineer, I want to (wish the same for you) use my already learnt mathematics skills to advance further in topic and dive deep, to do some meaningful work or research.
  * **Machine Learning** by *Tom Mitchell* [CMU Course Page](http://www.cs.cmu.edu/~tom/10701_sp11/)
  *
 ### Quant Finance

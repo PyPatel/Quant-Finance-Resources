@@ -57,3 +57,4 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
 ## Blogs
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)
+ * [Quantitative Trading](http://epchan.blogspot.com/) by *E P Chan* (Authored multiple books including Machine Trading, Algorithmic Trading)

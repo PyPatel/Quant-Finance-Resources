@@ -58,4 +58,4 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)
  * [Quantitative Trading](http://epchan.blogspot.com/) by *E P Chan* (Authored multiple books including Machine Trading, Algorithmic Trading)
- * [Distill](https://distill.pub/) (About ML algorithms with interactive visualization for better understanding)
+ * [Distill](https://distill.pub/) (About ML algorithms research papers presented with interactive visualization for better understanding)

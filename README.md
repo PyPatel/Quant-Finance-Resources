@@ -24,8 +24,9 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * 
 
 ### C++
+ * (Book) **Accelerated C++** by *Andrew Koenig, Barbara E. Moo*
  * (Book) **Effective Modern C++** by *Scott Meyers* 
- * 
+
 ## Books
 ### Mathematics
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*  (Citadel Recommended)

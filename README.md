@@ -24,7 +24,7 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * 
 
 ### C++
- * (Book) **Accelerated C++** by *Andrew Koenig, Barbara E. Moo*
+ * (Book) **Accelerated C++** by *Andrew Koenig, Barbara E. Moo* (If you have good background in coding and in OOP like python, Java programmers)
  * (Book) **Effective Modern C++** by *Scott Meyers* 
 
 ## Books

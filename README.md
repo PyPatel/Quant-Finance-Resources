@@ -54,7 +54,8 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * **Deep Hedging** by *Hans Buehler et al.* (JP Morgan Quants from London Office) [Paper](https://arxiv.org/pdf/1802.03042.pdf)
    - This paper has been already implemented by JPM [Article](https://cdoreview.com/asset-management-and-trading/jp-morgan-unleashes-deep-hedging-on-single-stocks-other-portfolios/)
    - Hedging Vanilla OTC Products using RL
-
+ * **A Stochastic Model for Order Book Dynamics** by *Rama Cont et al.* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1273160)
+ 
 ## Blogs
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)

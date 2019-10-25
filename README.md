@@ -61,6 +61,7 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * **Price dynamics in a Markovian limit order market** by *Rama Cont et al.* [Paper](https://arxiv.org/pdf/1104.4596.pdf)
  
 ## Blogs
+ * [Fast AI](https://www.fast.ai/) Awesome courses and blogs
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)
  * [Quantitative Trading](http://epchan.blogspot.com/) by *E P Chan* (Authored multiple books including Machine Trading, Algorithmic Trading)

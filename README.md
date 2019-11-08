@@ -66,3 +66,4 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)
  * [Quantitative Trading](http://epchan.blogspot.com/) by *E P Chan* (Authored multiple books including Machine Trading, Algorithmic Trading)
  * [Distill Research Journal](https://distill.pub/) (About ML algorithms research papers presented with interactive visualization for better understanding)
+ * [Sebastian Ruder's Blog](https://ruder.io/) (Seb is Research Scientist at Deep Mind, NLP Research)

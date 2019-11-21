@@ -68,4 +68,4 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  * [Distill Research Journal](https://distill.pub/) (About ML algorithms research papers presented with interactive visualization for better understanding)
  * [Sebastian Ruder's Blog](https://ruder.io/) (Seb is Research Scientist at Deep Mind, NLP Research)
  * [Systematic Edge](https://systematicedge.wordpress.com/) (HFT Market making and relative value strategy, Algo trader in Chicago)
-
+ * [Quantitative Research and Trading](http://jonathankinlay.com/) (Jonathan Kinlay, PhD in Economics, Previously NYU Stern and CMU Prof)

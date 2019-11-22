@@ -19,7 +19,7 @@ This resources are specifically meant for **engineers or mathematicians**. Most 
  *
 ### Quant Finance
  * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
- *
+ * **Global Financial Crisis** (Finance only) by *Timothy F. Geithner* (U.S. Secretary of the Treasury during crisis) Very good course for beginners in Finance or interested in Crisis analysis. [Coursera course](https://www.coursera.org/learn/global-financial-crisis)
 
 ## Coding 
 ### Python

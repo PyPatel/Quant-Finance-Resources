@@ -69,3 +69,6 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
  * [Sebastian Ruder's Blog](https://ruder.io/) (Seb is Research Scientist at Deep Mind, NLP Research)
  * [Systematic Edge](https://systematicedge.wordpress.com/) (HFT Market making and relative value strategy, Algo trader in Chicago)
  * [Quantitative Research and Trading](http://jonathankinlay.com/) by *Jonathan Kinlay* (PhD in Economics, Previously NYU Stern and CMU Prof)
+
+
+PS: I am weak at Grammer and someone told there are too many mistakes here, instead of fixing it..! It's open sourcce for a reason...

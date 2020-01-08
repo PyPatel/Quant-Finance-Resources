@@ -35,7 +35,7 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
   * **Statistics** (4th edition) by *David Freedman, Robert Pisani, Roger Purves*  (Citadel Recommended)
   * **How to Lie with Statistics** by *Darrell Huff* (Interesting takes on how you can manipulate human perception with Graph)
   * **Thinking Strategically** by *Avinash Dixit and Barry Nalebuff* (Game theory book) (Citadel Recommended)
-  * 
+  * **Analysis of Financial Time Series** by *Ruey S. Tsay* (Good for Time Series Analysis)
   
 ### AI
   * **Deep Learning** by Ian Goodfellow et al.

@@ -16,7 +16,7 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
  * 
 ### AI
  * **Machine Learning** by *Tom Mitchell* [CMU Course Page](http://www.cs.cmu.edu/~tom/10701_sp11/)
- *
+ * **Introduction to Reinforcement Learning** by *David Silver* from DeepMind (AlphaGo, AlphaZero etc. creator) [Youtube Playlist of the course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 ### Quant Finance
  * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
  * **Global Financial Crisis** (Finance only) by *Timothy F. Geithner* (U.S. Secretary of the Treasury during crisis) Very good course for beginners in Finance or interested in Crisis analysis. [Coursera course](https://www.coursera.org/learn/global-financial-crisis)

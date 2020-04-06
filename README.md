@@ -69,6 +69,6 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
  * [Sebastian Ruder's Blog](https://ruder.io/) (Seb is Research Scientist at Deep Mind, NLP Research)
  * [Systematic Edge](https://systematicedge.wordpress.com/) (HFT Market making and relative value strategy, Algo trader in Chicago)
  * [Quantitative Research and Trading](http://jonathankinlay.com/) by *Jonathan Kinlay* (PhD in Economics, Previously NYU Stern and CMU Prof)
-
+ * [Applied Probability Notes](https://appliedprobability.blog/) by *Neil Walton* (PhD, Ex Head of Probability and Statistics group at University of Manchester) Applied Probability is main theme for Optimization, Game theory, Dynamic Programming and RL  
 
  > **PS**: I am weak at grammar and someone told there are too many mistakes here, instead of fixing it..! It's open source for a reason...

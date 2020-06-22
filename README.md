@@ -51,6 +51,7 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
 ## Articles
 * **The Gambler Who Cracked the Horse-Racing Code** in Bloomberg Businessweek [here](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * **Learning and Understanding in the Mirror of Mathematics, Ch.1,2** by Misha Gromov [available here](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/Learning-understanding-two-chapters-aug24-2018.pdf)
+* **High-Frequency Cross-Market Trading: Model Free measurements and Applications** (Good view on US HFT Market and Networks) [pdf of presentation](https://pdfs.semanticscholar.org/ca89/1deaf301c5cbbed9a8890aca431ad4e28fae.pdf)
 ## Papers
  * **Beating the bookies with their own numbers - and how the online sports betting market is rigged** [Paper](https://arxiv.org/abs/1710.02824)
  * **Machine Learning for Trading** by *Gordon Ritter* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609) (Talks about implementation of RL into Finance)
@@ -68,7 +69,9 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
  * [Distill Research Journal](https://distill.pub/) (About ML algorithms research papers presented with interactive visualization for better understanding)
  * [Sebastian Ruder's Blog](https://ruder.io/) (Seb is Research Scientist at Deep Mind, NLP Research)
  * [Systematic Edge](https://systematicedge.wordpress.com/) (HFT Market making and relative value strategy, Algo trader in Chicago)
+ * [SNIPER IN MAHWAH & FRIENDS](https://sniperinmahwah.wordpress.com/) Blog on HFT Networks and latency
  * [Quantitative Research and Trading](http://jonathankinlay.com/) by *Jonathan Kinlay* (PhD in Economics, Previously NYU Stern and CMU Prof)
  * [Applied Probability Notes](https://appliedprobability.blog/) by *Neil Walton* (PhD, Ex Head of Probability and Statistics group at University of Manchester) Applied Probability is main theme for Optimization, Game theory, Dynamic Programming and RL  
+
 
  > **PS**: I am weak at grammar and someone told there are too many mistakes here, instead of fixing it..! It's open source for a reason...

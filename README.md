@@ -17,9 +17,11 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
 ### AI
  * **Machine Learning** by *Tom Mitchell* [CMU Course Page](http://www.cs.cmu.edu/~tom/10701_sp11/)
  * **Introduction to Reinforcement Learning** by *David Silver* from DeepMind (AlphaGo, AlphaZero etc. creator) [Youtube Playlist of the course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
 ### Quant Finance
  * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
  * **Global Financial Crisis** (Finance only) by *Timothy F. Geithner* (U.S. Secretary of the Treasury during crisis) Very good course for beginners in Finance or interested in Crisis analysis. [Coursera course](https://www.coursera.org/learn/global-financial-crisis)
+ * **Introduction to Market Microstructures** by *Paul Besson* (Paul heads Euronext's quantitative research department) [Lecture Page](https://www.institutlouisbachelier.org/mooc/practical-introduction-to-market-microstructure/)
 
 ## Coding 
 ### Python
@@ -52,6 +54,7 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
 * **The Gambler Who Cracked the Horse-Racing Code** in Bloomberg Businessweek [here](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code)
 * **Learning and Understanding in the Mirror of Mathematics, Ch.1,2** by Misha Gromov [available here](https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/Learning-understanding-two-chapters-aug24-2018.pdf)
 * **High-Frequency Cross-Market Trading: Model Free measurements and Applications** (Good view on US HFT Market and Networks) [pdf of presentation](https://pdfs.semanticscholar.org/ca89/1deaf301c5cbbed9a8890aca431ad4e28fae.pdf)
+
 ## Papers
  * **Beating the bookies with their own numbers - and how the online sports betting market is rigged** [Paper](https://arxiv.org/abs/1710.02824)
  * **Machine Learning for Trading** by *Gordon Ritter* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015609) (Talks about implementation of RL into Finance)

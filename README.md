@@ -5,6 +5,9 @@
 
 This resources are specifically meant for **STEM grads**. Most of the courses are Math or Coding heavy. Take it at your own risk.
 
+### About me
+I work as a Quant Trader in High Frequency Trading firm focused on Indian Markets in Equities and F&O. I did my Masters (M.Tech) and Bachelors (B.Tech) from [IIT Madras](https://www.iitm.ac.in/) in Automotive Engineering.
+
 ## Courses and Lectures
 > **Note:** Courses listed below will NOT show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it,    Medical doctor or lawyer can, if needed.) I don't want to (or want you to) spend time in these courses because these courses gives you flavour of subject and not deep understanding. Being an engineer, I want to (wish the same for you) use my already learnt mathematics skills to advance further in topic and dive deep, to do some meaningful work or research.
 

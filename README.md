@@ -63,7 +63,10 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
    - Hedging Vanilla OTC Products using RL
  * **A Stochastic Model for Order Book Dynamics** by *Rama Cont et al.* [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1273160)
  * **Price dynamics in a Markovian limit order market** by *Rama Cont et al.* [Paper](https://arxiv.org/pdf/1104.4596.pdf)
- 
+
+## Psychology 
+ * **48 Laws of Power** by *Robert Greene*
+
 ## Blogs
  * [Fast AI](https://www.fast.ai/) Awesome courses and blogs
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)

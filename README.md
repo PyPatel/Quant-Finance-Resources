@@ -9,14 +9,15 @@ This resources are specifically meant for **STEM grads**. Most of the courses ar
 I work as a Quant Trader in High Frequency Trading firm focused on Indian Markets in Equities and F&O. I did my Masters (M.Tech) and Bachelors (B.Tech) from [IIT Madras](https://www.iitm.ac.in/) in Automotive Engineering.
 
 ## Courses and Lectures
-> **Note:** Courses listed below will NOT show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it,    Medical doctor or lawyer can, if needed.) I don't want to (or want you to) spend time in these courses because these courses gives you flavour of subject and not deep understanding. Being an engineer, I want to (wish the same for you) use my already learnt mathematics skills to advance further in topic and dive deep, to do some meaningful work or research.
+> **Note:** The courses listed below will NOT show any Coursera or Youtube Fams, because those courses are open for all (Anyone can take it,    Medical doctor or lawyer can if needed.) I don't want to (or want you to) spend time in these courses because these courses give you a flavor of the subject and not deep understanding. Being an engineer, I want to (wish the same for you) use my already learned mathematics skills to advance further in the topic and dive deep, to do some meaningful work and push the boundary.
 
 > If you had Udemy courses and say "I know ML", I will lash you with a wet noodle (No offense to udemy).
 
 ### Mathematics
  * **Numerical Linear Algebra for Coders** by [fast.ai](https://www.fast.ai) 
  * **Introduction to Probability** by [MIT OCW](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/index.htm)
- * 
+ * **Topics in Mathematics with Applications in Finance** by *MIT Mathematics* [Lecture Page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+ 
 ### AI
  * **Machine Learning** by *Tom Mitchell* [CMU Course Page](http://www.cs.cmu.edu/~tom/10701_sp11/)
  * **Introduction to Reinforcement Learning** by *David Silver* from DeepMind (AlphaGo, AlphaZero etc. creator) [Youtube Playlist of the course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -26,6 +27,7 @@ I work as a Quant Trader in High Frequency Trading firm focused on Indian Market
  * **Global Financial Crisis** (Finance only) by *Timothy F. Geithner* (U.S. Secretary of the Treasury during crisis) Very good course for beginners in Finance or interested in Crisis analysis. [Coursera course](https://www.coursera.org/learn/global-financial-crisis)
  * **Introduction to Market Microstructures** by *Paul Besson* (Paul heads Euronext's quantitative research department) [Lecture Page](https://www.institutlouisbachelier.org/mooc/practical-introduction-to-market-microstructure/)
 
+ 
 ## Coding 
 ### Python
  * (Book) **Python for Finance**: Analyze Big Financial Data by *Yves Hilpisch* (Citadel Recommended)

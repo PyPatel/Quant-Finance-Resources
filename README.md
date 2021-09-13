@@ -23,7 +23,7 @@ I work as a Quant Trader in High Frequency Trading firm focused on Indian Market
  * **Introduction to Reinforcement Learning** by *David Silver* from DeepMind (AlphaGo, AlphaZero etc. creator) [Youtube Playlist of the course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 ### Quant Finance
- * **Quantopian Lectures** for Python and Statistics [Lectures](https://www.quantopian.com/lectures)
+ * **Quantopian Lectures** for Python and Statistics [Lectures](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
  * **Global Financial Crisis** (Finance only) by *Timothy F. Geithner* (U.S. Secretary of the Treasury during crisis) Very good course for beginners in Finance or interested in Crisis analysis. [Coursera course](https://www.coursera.org/learn/global-financial-crisis)
  * **Introduction to Market Microstructures** by *Paul Besson* (Paul heads Euronext's quantitative research department) [Lecture Page](https://www.institutlouisbachelier.org/mooc/practical-introduction-to-market-microstructure/)
 

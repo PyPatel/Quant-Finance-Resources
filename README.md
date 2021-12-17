@@ -71,9 +71,11 @@ I work as a Quant Trader in High Frequency Trading firm focused on Indian Market
 
 ## Psychology 
  * **48 Laws of Power** by *Robert Greene*
+ML-Quant - Top Quant resources like ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
 
 ## Blogs
  * [Fast AI](https://www.fast.ai/) Awesome courses and blogs
+ * [ML-Quant](https://www.ml-quant.com/) Quant resources from ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
  * [http://koaning.io/](http://koaning.io/) by *Vincent D. Warmerdam* (Use of Simple Mathematics into ML)
  * [Colah's Blog](http://colah.github.io/) by *Christopher Olah* (Ex OpenAI and Google Brain)
  * [Quantitative Trading](http://epchan.blogspot.com/) by *E P Chan* (Authored multiple books including Machine Trading, Algorithmic Trading)
